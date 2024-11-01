@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress-Recent-Comments 1.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-15 13:01+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Bharath <wuzhao.mail@gmail.com>\n"
+"Language-Team: NeoEase <http://111waystomakemoney.com/wordpress-recent-comments/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Wordpress-Recent-Comments.php:36
+#: Wordpress-Recent-Comments.php:37
+#: Wordpress-Recent-Comments.php:432
+msgid "Loading"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:57
+msgid "Recent Comments"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:109
+msgid "Title: "
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:126
+msgid "The most recent comments"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:127
+#: Wordpress-Recent-Comments.php:128
+#: Wordpress-Recent-Comments.php:264
+msgid "Wordpress-Recent-Comments"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:274
+msgid "Wordpress-Recent-Comments Options"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:280
+msgid "CSS"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:284
+msgid "Use Wordpress-Recent-Comments.css."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:290
+msgid "JavaScript Library"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:294
+msgid "Use normal JavaScript library that is supported by this plugin."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:299
+msgid "Use jQuery library that is supported by WordPress."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:304
+msgid "Custom jQuery."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:307
+msgid "Please input the URL of jQuery:"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:315
+msgid "Comment List"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:317
+msgid "comments per page."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:322
+msgid "Show the comments from administrators."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:328
+msgid "Show pingback and trackback comments."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:334
+msgid "Show navigation bar."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:340
+msgid "Comment Items"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:343
+msgid "characters per comment."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:348
+msgid "Show post titles."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:354
+msgid "Show the expand button when mouse over excerpts."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:360
+msgid "Open external pages in a new tab/window."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:366
+msgid "Show avatars on"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:369
+msgid "left"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:370
+msgid "right"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:372
+msgid ", size is"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:374
+msgid "pixels"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:379
+msgid "Show smilies as graphic icons."
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:388
+msgid "Save Changes"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:431
+msgid "%REVIEWER% on %POST%"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:433
+msgid "No comments"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:434
+msgid "&laquo; Newest"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:435
+msgid "&laquo; Newer"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:436
+msgid "Older &raquo;"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:441
+msgid "Anonymous"
+msgstr ""
+
